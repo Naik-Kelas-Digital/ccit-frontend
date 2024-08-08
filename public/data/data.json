@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "type": "Type 1",
+    "rating": 4.5,
+    "price": "Rp 1.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 1.",
+    "additionalInfo": "Informasi tambahan untuk produk 1.",
+    "reviews": "Ulasan untuk produk 1."
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "type": "Type 2",
+    "rating": 4.0,
+    "price": "Rp 2.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 2.",
+    "additionalInfo": "Informasi tambahan untuk produk 2.",
+    "reviews": "Ulasan untuk produk 2."
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "type": "Type 3",
+    "rating": 4.5,
+    "price": "Rp 3.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 3.",
+    "additionalInfo": "Informasi tambahan untuk produk 3.",
+    "reviews": "Ulasan untuk produk 3."
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "type": "Type 4",
+    "rating": 4.0,
+    "price": "Rp 4.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 4.",
+    "additionalInfo": "Informasi tambahan untuk produk 4.",
+    "reviews": "Ulasan untuk produk 4."
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "type": "Type 5",
+    "rating": 4.5,
+    "price": "Rp 5.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 5.",
+    "additionalInfo": "Informasi tambahan untuk produk 5.",
+    "reviews": "Ulasan untuk produk 5."
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "type": "Type 6",
+    "rating": 4.0,
+    "price": "Rp 6.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 6.",
+    "additionalInfo": "Informasi tambahan untuk produk 6.",
+    "reviews": "Ulasan untuk produk 6."
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "type": "Type 7",
+    "rating": 2.5,
+    "price": "Rp 700.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 7.",
+    "additionalInfo": "Informasi tambahan untuk produk 7.",
+    "reviews": "Ulasan untuk produk 7."
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "type": "Type 8",
+    "rating": 4.0,
+    "price": "Rp 2.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 8.",
+    "additionalInfo": "Informasi tambahan untuk produk 8.",
+    "reviews": "Ulasan untuk produk 8."
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "type": "Type 9",
+    "rating": 4.5,
+    "price": "Rp 9.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 9.",
+    "additionalInfo": "Informasi tambahan untuk produk 9.",
+    "reviews": "Ulasan untuk produk 9."
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "type": "Type 10",
+    "rating": 3.0,
+    "price": "Rp 10.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 10.",
+    "additionalInfo": "Informasi tambahan untuk produk 10.",
+    "reviews": "Ulasan untuk produk 10."
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "type": "Type 11",
+    "rating": 4.0,
+    "price": "Rp 11.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 11.",
+    "additionalInfo": "Informasi tambahan untuk produk 11.",
+    "reviews": "Ulasan untuk produk 11."
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "type": "Type 12",
+    "rating": 4.0,
+    "price": "Rp 12.000.000",
+    "availability": "Tersedia",
+    "image": "/best-seller-image.jpg",
+    "description": "Deskripsi untuk produk 12.",
+    "additionalInfo": "Informasi tambahan untuk produk 12.",
+    "reviews": "Ulasan untuk produk 12."
+  }
+]
+  
