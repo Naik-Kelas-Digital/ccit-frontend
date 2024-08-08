@@ -1,0 +1,27 @@
+/* global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mengatur warna krem untuk background start */
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 255, 248, 231; /* warna krem */
+  --background-end-rgb: 255, 255, 255;
+}
+
+/* Mengatur warna teks dan latar belakang body */
+body {
+  @apply bg-gradient-to-b from-[rgba(var(--background-start-rgb),1)] to-[rgba(var(--background-end-rgb),1)];
+  @apply text-black;
+}
+
+/* Utility class untuk teks wrap balance */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+    .text-right {
+      text-align: right;
+  }
+}
