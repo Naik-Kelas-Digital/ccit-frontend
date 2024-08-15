@@ -5,9 +5,13 @@ export default function Home() {
     <>
       <h1>TESTING</h1>
       <br />
-      <Link  href="/AboutUs">About Us</Link>  
+      <Link  href="/about-us">About Us</Link>  
       <br/>
-      <Link href="/Contact">CONTACT US</Link>
+      <Link href="/contact">Contact</Link>
+      <br />
+      <Link href="/sign-up">halaman Sign Up</Link>
+      <br />
+      <Link href="/login">halaman login</Link>
     </>
   );
 }
