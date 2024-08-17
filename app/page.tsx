@@ -12,6 +12,12 @@ export default function Home() {
       <Link href="/sign-up">halaman Sign Up</Link>
       <br />
       <Link href="/login">halaman login</Link>
+      <br />
+      <Link href="/forgot-password">halaman forgot password</Link>
+      <br />
+      <Link href="/verifikasi-forgot-pass">halaman verifikasi google</Link>
+      <br />
+      <Link href="/set-new-password">halaman set new password</Link>
     </>
   );
 }
